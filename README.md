@@ -1,5 +1,6 @@
 Average IT enthusiast
 In love with everything that floats around to Computer Science and related, from hardware to software
+
 Working everyday on some different made-up crazy prototype
 IT Maker
 
