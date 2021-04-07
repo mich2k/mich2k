@@ -4,12 +4,11 @@ In love with everything that floats around to Computer Science and related, from
 
 Working everyday on some different made-up crazy prototype
 
-IT Maker
-
 Currently studying Computer Science Engineering in University of Modena
 
 my Telegram: @mich2k
 
+IT Maker
 
 <!--
 **mich2k/mich2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
