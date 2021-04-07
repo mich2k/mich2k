@@ -1,6 +1,6 @@
 ⚡ Average IT enthusiast
 
-In love with everything that floats around to Computer Science, from hardware to software
+In love with everything that floats around Computer Science, from hardware to software
 
 Working everyday on different made-up crazy prototypes
 
