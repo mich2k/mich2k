@@ -1,8 +1,8 @@
-Average IT enthusiast
+⚡ Average IT enthusiast
 
-In love with everything that floats around to Computer Science and related, from hardware to software
+In love with everything that floats around to Computer Science, from hardware to software
 
-Working everyday on some different made-up crazy prototype
+Working everyday on different made-up crazy prototypes
 
 Currently studying Computer Science Engineering in University of Modena
 
