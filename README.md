@@ -11,7 +11,7 @@ Currently studying Computer Science Engineering in University of Modena
 IT Maker
 
 <details align="center">
-   <summary> <samp>&#9776; Details</samp></summary>
+   <summary> <samp>&#9776; Details (Click me)</samp></summary>
    <p align="center">
      <br>
       <a href="https://github.com/mich2k?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
