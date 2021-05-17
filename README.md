@@ -6,7 +6,8 @@ Working everyday on different made-up crazy prototypes
 
 Currently studying Computer Science Engineering in University of Modena
 
-<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /> <b> @mich2k </b>
+<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /> <a href="http://t.me/mich2k"> 
+<b> @mich2k </b> </a>
 
 IT Maker
 
