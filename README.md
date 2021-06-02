@@ -24,8 +24,10 @@ IT Maker
       <a href="https://github.com/mich2k?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square&logo=C%2B%2B&logoColor=white"></a> -->
 
       
- <br>
   ![](https://github-readme-stats.vercel.app/api?username=mich2k&show_icons=true&theme=dracula&border_radius=5&include_all_commits=true)
+      
+      
+      
   <!--<img src="https://github-readme-stats.vercel.app/api?username=mich2k&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img> -->
   </samp>
   </p>
