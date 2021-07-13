@@ -1,4 +1,4 @@
-⚡ IT enthusiast
+###⚡ IT enthusiast
 
 In love with everything that floats around Computer Science, from hardware to software
 
