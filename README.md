@@ -11,8 +11,8 @@ Currently studying Computer Science Engineering in University of Modena
 
 IT Maker
 
-<!-- <details align="center"> -->
-   <summary> <samp>&#9776; Details (Click me)</samp></summary>
+<!-- <details align="center">
+   <summary> <samp>&#9776; Details (Click me)</samp></summary> -->
    <p align="center">
      <br>
       <!--
