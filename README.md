@@ -12,8 +12,9 @@ Currently studying Computer Science Engineering in University of Modena
 IT Maker
    <br>
       
-  ![](https://github-readme-stats.vercel.app/api?username=mich2k&show_icons=true&theme=dracula&border_radius=5&include_all_commits=true)
+ <!-- ![](https://github-readme-stats.vercel.app/api?username=mich2k&show_icons=true&theme=dracula&border_radius=5&include_all_commits=true) -->
       
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mich2k&line_height=31.5&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&hide=contribs,stars)](https://github.com/mich2k)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mich2k&layout=compact&theme=dracula)](https://github.com/mich2k)
 
    
