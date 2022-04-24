@@ -9,7 +9,7 @@ Currently studying Computer Science Engineering in University of Modena
 <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /> <a href="http://t.me/mich2k"> 
    <u><b>@mich2k</b></u> </a> 
 
-IT Maker
+IT Maker <img alt="spark gif" src="https://media4.giphy.com/media/TnPhv5CI8rHK8/200.gif" width="20px" height="20px"/>
    <br>
       
  <!-- ![](https://github-readme-stats.vercel.app/api?username=mich2k&show_icons=true&theme=dracula&border_radius=5&include_all_commits=true) 
@@ -25,4 +25,3 @@ IT Maker
 ![](https://github.com/mich2k/gh-stats/blob/master/generated/languages.svg)
 
 
-![img](https://media4.giphy.com/media/TnPhv5CI8rHK8/200.gif)
