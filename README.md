@@ -10,7 +10,7 @@ Currently studying Computer Science Engineering in University of Modena
    <u><b>@mich2k</b></u> </a> 
 
    <br>
-IT Maker <img alt="spark gif" src="https://media4.giphy.com/media/TnPhv5CI8rHK8/200.gif" width="30x" height="30px"/>
+IT Maker <img alt="spark gif" src="https://media4.giphy.com/media/TnPhv5CI8rHK8/200.gif" width="35x" height="35px"/>
    <br>
       
  <!-- ![](https://github-readme-stats.vercel.app/api?username=mich2k&show_icons=true&theme=dracula&border_radius=5&include_all_commits=true) 
