@@ -20,7 +20,7 @@ IT Maker
 -->
 
 
-![](https://github.com/mich2k/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/mich2k/gh-stats/blob/master/generated/overview.svg)
 
-![](https://github.com/mich2k/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/mich2k/gh-stats/blob/master/generated/languages.svg)
 
