@@ -24,3 +24,5 @@ IT Maker
 
 ![](https://github.com/mich2k/gh-stats/blob/master/generated/languages.svg)
 
+
+![img](https://media4.giphy.com/media/TnPhv5CI8rHK8/200.gif)
